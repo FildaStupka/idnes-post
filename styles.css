@@ -1,0 +1,27 @@
+.logo {
+    width: 400px;
+}
+
+.autor {
+    font-weight: bold;
+}
+
+.souvisejici {
+    list-style-image: url(imgs/arrow.svg);
+}
+
+i {
+    color: #555;
+}
+
+.fa-facebook:hover {
+    color: #0d5dff;
+}
+
+.fa-twitter:hover {
+    color: #1DA1F2;
+}
+
+.fa-print:hover, .fa-comment:hover {
+    color: #1f428a;
+}
